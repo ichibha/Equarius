@@ -2,7 +2,7 @@
 Thie is the support page for Equarius formula editor. Equarius is available in App Store (Under preparation). Feel free to share your suggestions, requests, bug reports, and any comments from Issues. 
 
 ## Links
-- [Privacy policy](https://github.com/ichibha/Equarius/blob/2e2af8d3c0d1806eefed07d6e0771215f39baa96/privacy_policy.md)
+- [Privacy Policy](https://github.com/ichibha/Equarius/blob/main/privacy_policy.md)
 - [Terms of Use](https://www.apple.com/legal/internet-services/itunes/dev/stdeula)
 
 ## Acknowledgements 
