@@ -1,5 +1,5 @@
 # Support page for Equarius
-Thie is the user support page for Equarius formula editor. Equarius is available in App Store (Under preparation). Feel free to share your questions, requests, bug reports, and any comments from Issues.
+Thie is the user support page for Equarius formula editor. Equarius is available in [App Store](https://apps.apple.com/us/app/equarius/id6448750583). Feel free to share your questions, requests, bug reports, and any comments from Issues.
 
 
 ## Links
