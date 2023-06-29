@@ -1,6 +1,7 @@
 # Support page for Equarius equation editor
-Thie is the user support page for Equarius formula editor. Equarius is available in [App Store](https://apps.apple.com/us/app/equarius/id6448750583). Feel free to share your questions, requests, bug reports, and any comments from Issues.
-<img src="https://github.com/ichibha/Equarius/assets/41054969/92593f09-8229-4023-bcc2-de5a16a1e6a1" width="600">
+Thie is the user support page for Equarius formula editor. Equarius is available in [App Store](https://apps.apple.com/us/app/equarius/id6448750583). Feel free to share your questions, requests, bug reports, and any comments from [Issues](https://github.com/ichibha/Equarius/issues).
+
+<img src="https://github.com/ichibha/Equarius/assets/41054969/92593f09-8229-4023-bcc2-de5a16a1e6a1" width="500">
 
 ## Thank you for reviewing Equarius!
 - [AAPL Ch.](https://applech2.com/archives/20230628-equarius-formula-editor-for-mac.html)
