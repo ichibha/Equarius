@@ -9,5 +9,5 @@ Thie is the user support page for Equarius formula editor. Equarius is available
 - [Privacy Policy](https://github.com/ichibha/Equarius/blob/main/privacy_policy.md)
 
 ## Acknowledgements
-- App Icon [Aquarius icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/aquarius)
+- [Aquarius icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/aquarius) App Icon
 - [Mathlive](https://cortexjs.io/mathlive/) Formula editor library for JavaScript.
