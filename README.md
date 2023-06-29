@@ -12,6 +12,8 @@ Thie is the user support page for Equarius formula editor. Equarius is available
 - [Aquarius icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/aquarius) App Icon
 - [MathLive](https://cortexjs.io/mathlive/) A Web Component for Math Input
 - [axios](https://github.com/axios/axios) Promise based HTTP client for the browser and node.js
-- [electron-is-dev](https://github.com/sindresorhus/electron-is-dev)
+- [electron-is-dev](https://github.com/sindresorhus/electron-is-dev) 
 - [node-machine-id](https://github.com/automation-stack/node-machine-id) Cross-platform unique machine (desktop) id discovery
-
+- [React](https://github.com/facebook/react) A JavaScript library for building user interfaces
+- [React DOM](https://github.com/facebook/react/tree/main/packages/react-dom)
+- [react-scripts](https://github.com/facebook/create-react-app/tree/main/packages/react-scripts)
