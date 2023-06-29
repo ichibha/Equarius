@@ -17,3 +17,6 @@ Thie is the user support page for Equarius formula editor. Equarius is available
 - [React](https://github.com/facebook/react) A JavaScript library for building user interfaces
 - [React DOM](https://github.com/facebook/react/tree/main/packages/react-dom)
 - [react-scripts](https://github.com/facebook/create-react-app/tree/main/packages/react-scripts)
+- [uuid](https://github.com/uuidjs/uuid) For the creation of RFC4122 UUIDs
+- [concurrently](https://github.com/open-cli-tools/concurrently) Run multiple commands concurrently.
+- [cross-env](https://github.com/kentcdodds/cross-env) Run scripts that set and use environment variables across platforms
