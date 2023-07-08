@@ -1,4 +1,4 @@
-# GDPR policy
+# General Data Protection Regulation policy
 
 We appreciate your commitment to privacy and data protection. 
 Your use of our website may involve the collection, use, and sharing of data. 
