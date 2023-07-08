@@ -9,3 +9,4 @@ Thie is the user support page for Equarius formula editor. Equarius is available
 ## Links
 - [Terms of Use](https://www.apple.com/legal/internet-services/itunes/dev/stdeula)
 - [Privacy Policy](https://github.com/ichibha/Equarius/blob/main/privacy_policy.md)
+- [Acknowledgements](https://github.com/ichibha/Equarius/blob/main/acknowledgements.md)
