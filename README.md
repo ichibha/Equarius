@@ -5,6 +5,7 @@ Download Equarius from the [App Store](https://apps.apple.com/us/app/equarius/id
 
 For questions, feedback, bug reports, or other inquiries, please visit our [Issues](https://github.com/ichibha/Equarius/issues) page.
 
+
 ![Equarius Screenshot](https://github.com/ichibha/Equarius/assets/41054969/a81ffdf6-374f-4cab-997e-a70cb984ddef)
 
 ## As Featured On
