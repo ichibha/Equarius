@@ -1,5 +1,5 @@
 # Acknowledgements
-We extend our gratitude to the MathLive project for providing the exceptional formula editor framework!
+We extend our gratitude to the MathLive project for providing the exceptional equation editor framework!
 - [MathLive](https://cortexjs.io/mathlive/) A Web Component for Math Input
 
 We also appreciate the following projects.
