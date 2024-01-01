@@ -6,7 +6,7 @@ Experience Equarius with [Online Demo](https://xfroggie.com/external/equarius/in
 The full functionality of Equarius is available for a one-time purchase starting from October 20, 2023.  
 Whoever had installed Equarius can access all features permanently without payment.
 
-For questions, feedback, bug reports, or other inquiries, please visit our [Issues](https://github.com/ichibha/Equarius/issues) page.
+For questions, feedback, bug reports, or other inquiries, please visit [Issues page](https://github.com/ichibha/Equarius/issues).
 
 ![Equarius Screenshot](https://github.com/ichibha/Equarius/assets/41054969/a81ffdf6-374f-4cab-997e-a70cb984ddef)
 
