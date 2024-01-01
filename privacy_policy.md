@@ -17,5 +17,5 @@ While the App does not directly collect or manage any personal information, it m
 I reserve the right to update or modify this Privacy Policy at any time. Any changes to my Privacy Policy will be posted on the App's website or within the App, and I will notify users of any significant changes. Your continued use of the App after any changes have been made will constitute your acceptance of the updated Privacy Policy.
 
 ## 5. Contact Information
-If you have any questions or concerns regarding this Privacy Policy, please feel free to contact me at ichibha@icloud.com. By using the App, you acknowledge and agree to the terms of this Privacy Policy.
+If you have any questions or concerns regarding this Privacy Policy, please feel free to contact me at [Issues page](https://github.com/ichibha/Equarius/issues). By using the App, you acknowledge and agree to the terms of this Privacy Policy.
 
