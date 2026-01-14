@@ -37,10 +37,6 @@ Licensed under the MIT License
 Copyright (c) uuidjs contributors  
 Licensed under the ISC License
 
-### react-markdown
-Copyright (c) Espen Hovlandsdal  
-Licensed under the MIT License
-
 ---
 
 ## MIT License
