@@ -17,10 +17,6 @@ Licensed under the MIT License
 Copyright (c) Meta Platforms, Inc. and affiliates  
 Licensed under the MIT License
 
-### react-markdown
-Copyright (c) Espen Hovlandsdal
-Licensed under the MIT License
-
 ### React Scripts
 Copyright (c) Facebook, Inc. and its contributors  
 Licensed under the MIT License
@@ -40,6 +36,10 @@ Licensed under the MIT License
 ### uuidjs
 Copyright (c) uuidjs contributors  
 Licensed under the ISC License
+
+### react-markdown
+Copyright (c) Espen Hovlandsdal
+Licensed under the MIT License
 
 ---
 
