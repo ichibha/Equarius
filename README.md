@@ -17,3 +17,7 @@ For questions, feedback, bug reports, or other inquiries, please visit [Issues p
 - [Terms of Use](https://www.apple.com/legal/internet-services/itunes/dev/stdeula)
 - [Privacy Policy](https://github.com/ichibha/Equarius/blob/main/privacy_policy.md)
 - [Acknowledgements](https://github.com/ichibha/Equarius/blob/main/acknowledgements.md)
+
+# Acknowledgements
+We extend our gratitude to the [MathLive project](https://cortexjs.io/mathlive/) 
+for providing the exceptional equation editor framework, along with the other projects.
