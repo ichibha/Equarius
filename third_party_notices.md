@@ -25,6 +25,10 @@ Licensed under the MIT License
 Copyright (c) Sindre Sorhus  
 Licensed under the MIT License
 
+### electron-store
+Copyright (c) Sindre Sorhus  
+Licensed under the MIT License
+
 ### html-react-parser
 Copyright (c) Remarkablemark  
 Licensed under the MIT License
